@@ -12,6 +12,7 @@ public class Mumei02 {
 				new Comparator<String>() {
 					@Override
 					public int compare(String x, String y) {
+//						‚±‚±‚ª‚æ‚­‚í‚©‚ç‚È‚¢c
 						return x.compareTo(y);
 					}
 				});

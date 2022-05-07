@@ -6,7 +6,7 @@ public class A {
 	}
 
 	public static void main(String[] args) {
-		A b = new A(){
+		A b = new A() {
 			@Override
 			public String hello() {
 				return "Hello B!";
