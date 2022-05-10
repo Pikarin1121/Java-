@@ -13,6 +13,7 @@ public class Chapter07 {
 		}
 
 		String color = "blue";
+//		•Ï”‚ªŒˆ‚Ü‚Á‚Ä‚¢‚éê‡‚Íswitch•¶‚Ì•û‚ª‚æ‚¢
 		switch (color) {
 		case "red":
 			System.out.println("ÔM†‚Å‚·");

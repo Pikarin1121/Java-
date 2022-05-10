@@ -4,9 +4,11 @@ public class Chapter06 {
 		int val = 2 + 5;
 		System.out.println(val);
 
+//		インクリメント
 		val++;
 		System.out.println(val);
 
+//		val = val * 5と同義
 		val *= 5;
 		System.out.println(val);
 
