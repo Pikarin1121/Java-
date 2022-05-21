@@ -38,3 +38,4 @@ public class Chapter10 {
 		throw new SQLException("SQLエラーです");
 	}
 }
+//　わかりません…
