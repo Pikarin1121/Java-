@@ -1,7 +1,11 @@
 package extend.phone;
 
 public interface Phone {
-	int MAX_NUMBER_DIGIIS = 11;
+	final int MAX_NUMBER_DIGIIS = 11;
 
-	public void call(String number);
+	void call(String number);
+
+	default void powerOff() {
+		System.out.println("ìdåπÇêÿÇËÇ‹Ç∑ÅB");
+	}
 }
